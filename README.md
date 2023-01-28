@@ -1,5 +1,5 @@
 # s-perumal.github.io
-#Fun
+
 #Scientific Publications
 #Lewis Base/Acid Coordination Stabilizes Planar 6π Aromatic Si6/P6, Priyakumari C P* and Sathya S. R. R. Perumal, Organometallics, 2020,39, 16, 2951-2955  https://doi.org/10.1021/acs.organomet.0c00449 What we have predicted that Silicon and Phosphorus analogue of Benzene like molecules do exist.
 #A molecular dynamics calculation of solid phase of malonic acid: role of hydrogen-bond chains and the elastic constants Sathya S. R. R. Perumal and S. Yashonath,  J. Chem. Sci. 2017,129(7),963 – 974   https://doi.org/10.1007/s12039-017-1310-6
