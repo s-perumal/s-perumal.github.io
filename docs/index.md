@@ -6,6 +6,7 @@ layout: home
 ---
 
 Publications
+
     Lewis Base/Acid Coordination Stabilizes Planar 6π Aromatic Si6/P6, Priyakumari C P* and Sathya S. R. R. Perumal, Organometallics, 2020,39, 16, 2951-2955 
      https://doi.org/10.1021/acs.organomet.0c00449 What we have predicted that Silicon and Phosphorus analogue of Benzene like molecules do exist.
 
