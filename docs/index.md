@@ -5,7 +5,7 @@
 layout: home
 ---
 
-##**Publications**
+## **Publications**
 
 -  On the instability of iodides of heavy main group atoms in their higher oxidation state
    Priyakumari C P and Sathya S R R  Perumal  
